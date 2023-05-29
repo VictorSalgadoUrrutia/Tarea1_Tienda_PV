@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PrimerTarea_Majo_Victor_23CV/1.0.0": {
+        "runtime": {
+          "PrimerTarea_Majo_Victor_23CV.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PrimerTarea_Majo_Victor_23CV/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
